@@ -11,7 +11,7 @@ const GoalSchema = new mongoose.Schema({
         type: String,
         enum: ['Not Started', 'In Progress', 'Completed'],
     },
-    clientId: {
+    friendId: {
         type: mongoose.Schema.Types.ObjectId,
         ref: 'Friend',
     }

@@ -30,7 +30,7 @@ const goals = [
 {
     id: '5',
     friendId: '5',
-    name: 'Improve my well being',
+    name: 'Improve my wellbeing',
     description: 'Listen to my inner self, meditate and doing yin yoga before sleep',
     status: 'Lifetime'
 }
